@@ -4,6 +4,13 @@ A front-end React e-commerce project aimed at providing a seamless shopping expe
 
 ## Screenshots
 
+![ss0](https://github.com/nickychy/E-comm/assets/96295935/d638d8b9-d4cb-4688-a055-03ad468e427e)
+![ss1](https://github.com/nickychy/E-comm/assets/96295935/1041db64-7bfb-4c95-b2a8-16f1c938c617)
+![ss2](https://github.com/nickychy/E-comm/assets/96295935/71c3dcec-0ab4-4287-8a8d-1ac533cef521)![ss4](https://github.com/nickychy/E-comm/assets/96295935/eae99186-d5b6-41f9-a4ed-1a184af78846)
+![ss5](https://github.com/nickychy/E-comm/assets/96295935/c3457add-c508-4042-9d21-4d47e864d327)
+![ss6](https://github.com/nickychy/E-comm/assets/96295935/c0eaa5c6-01f6-47a9-ad2b-b548603304d5)
+
+
 ## FEATURES
 
 Responsive Design: Ensures a consistent user experience across devices of all sizes.
